@@ -5,7 +5,7 @@
  */
 void eremkinnv::lab1()
 {
-
+cout<<"Hello world!";
 }
 
 
